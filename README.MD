@@ -10,14 +10,13 @@ Contributions are always welcome!
 
 - [Categories](#categories)
     - [Documentation](#documentation)
-    - [Courses](#conferences)
+    - [Courses](#courses)
     - [Articles](#articles)
-        - [Reference](#reference)
-        - [Howtos](#howtos)
-        - [Assorted](#assorted)
-        - [Continuous Integration](#continuous-integration)
-        - [Internals](#internals)
     - [Tutorials](#tutorials)
+    - [Books](#books)
+    - [Training & tutorials](#Training&#32;&&#32;tutorials)
+    - [Misc](#Misc)
+
 
 ## Documentation
 
@@ -70,8 +69,20 @@ Walkthroughs and tutorials that help you learn ML and PyTorch.
 
 
 * [Chintala's 60 Minute PyTorch Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+
 * [Pytorch Official List of Tutorials](https://pytorch.org/tutorials/)
+
 * [Pytorch Official List of Tutorials](https://pytorch.org/tutorials/)
+
+* [PyTorch tutorial for beginners](https://github.com/Lplenka/PyTorch-Tutorial)
+
+* [Contains code based tutorial for Pytorch](https://github.com/AyushExel/DeepTorch)
+
+* [Free Python coding games from beginners to advanced](https://checkio.org/)
+
+* [An introduction to PyTorch Tensors](https://github.com/TheDataSpartan/PyTorch/blob/master/PyTorch%20Tensor%20Notebook.ipynb)
+
+* [Deep Learning Tutorial - LISA lab, University of Montreal](http://deeplearning.net/tutorial/deeplearning.pdf )
 
 ## Books
 
@@ -104,20 +115,9 @@ Assortment of conference and training videos.
 
 * [Intro to Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk)
 
-* [PyTorch tutorial for beginners](https://github.com/Lplenka/PyTorch-Tutorial)
-
-* [Contains code based tutorial for Pytorch](https://github.com/AyushExel/DeepTorch)
-
-* [Free Python coding games from beginners to advanced](https://checkio.org/)
-
-* [An introduction to PyTorch Tensors](https://github.com/TheDataSpartan/PyTorch/blob/master/PyTorch%20Tensor%20Notebook.ipynb)
-
-* [Deep Learning Tutorial - LISA lab, University of Montreal](http://deeplearning.net/tutorial/deeplearning.pdf )
-
 ## Blogs
 
 * [Neural Network for begineers blog](https://blog.statsbot.co/neural-networks-for-beginners-d99f2235efca)
-
 
 ## Misc
 
