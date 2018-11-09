@@ -1,0 +1,126 @@
+# Awesome PyTorch Scholarship Resources
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+
+A collection of awesome PyTorch and Python learning resources.
+
+Contributions are always welcome!
+
+# Categories
+
+- [Categories](#categories)
+    - [Documentation](#documentation)
+    - [Courses](#conferences)
+    - [Articles](#articles)
+        - [Reference](#reference)
+        - [Howtos](#howtos)
+        - [Assorted](#assorted)
+        - [Continuous Integration](#continuous-integration)
+        - [Internals](#internals)
+    - [Tutorials](#tutorials)
+
+## Documentation
+
+* [Pytorch Official Documentation](https://pytorch.org/docs/stable/index.html)
+
+## Courses
+
+Courses that can you take alongside PyTorch scholarship course both Python and Machine Learning
+
+
+* [Coursera' Machine Learning Course by stanford](https://www.coursera.org/learn/machine-learning)
+
+* [Coursera' Deep learning Specialization taught by Andrew Ng](https://www.coursera.org/learn/machine-learning)
+
+* [Linear Algebra refresher course from udacity](https://eu.udacity.com/course/linear-algebra-refresher-course--ud953)
+
+* [Introductory courses(few hours each) about Python, ML, Pandas Data Visualisation, SQL, R, Deep Learning, Embeddings and ML Explainability](https://www.kaggle.com/learn/overview)
+
+* [Linear algebra lectures from Gilbert Strang (very great lectures](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
+
+* [Pytorch course - basics are very well explained such as tensors and common operations](http://deeplizard.com/learn/playlist/PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
+
+* [A Practical Introduction to deep learning](https://www.datacamp.com/courses/deep-learning-in-python)
+
+* [Intro To machine learning by mit professors.](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-11-introduction-to-machine-learning/)
+
+* [Practical deep learning course. For later on in the challenge, when everyone is comfortable with PyTorch](https://course-v3.fast.ai/)
+
+* [2-Day Python course for Python beginners](https://developers.google.com/edu/python/)
+
+* [Linear algebra](https://eu.udacity.com/course/linear-algebra-refresher-course--ud953)
+
+* [mlcourse.ai is an open Machine Learning course by OpenDataScience. The course is designed to perfectly balance theory and practice; therefore, each topic is followed by an assignment with a deadline in a week. ](https://mlcourse.ai/)
+
+* [François Fleuret course on DL with Pytorch at EPFL](https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/)
+
+* [Free, interactive, intuitive Python tutorials](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+
+
+## Articles
+
+Content published on the Web.
+
+* [PyTorch 101 for Dummies](https://medium.com/@dassangeet768/pytorch-101-for-dummies-like-me-2adfe3af2e40)
+
+
+## Tutorials
+
+Walkthroughs and tutorials that help you learn ML and PyTorch.
+
+
+* [Chintala's 60 Minute PyTorch Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+* [Pytorch Official List of Tutorials](https://pytorch.org/tutorials/)
+* [Pytorch Official List of Tutorials](https://pytorch.org/tutorials/)
+
+## Books
+
+Books - free and commercial
+
+* [Interactive textbook on Neural Network Fundamentals. Beginner resource](http://cs231n.stanford.edu/)
+* [Deep Learning book from Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
+
+## Videos
+
+Assortment of conference and training videos.
+
+### Training & tutorials
+
+* [3blue1brown's Channel (Intuititive refreshers in neural networks and linear Algebra))](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists)
+
+* [Siraj's Channel (Topics and courses in AI, machine learning, decentralized apps, etc.)](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists)
+
+* [But what is a Neural Network? | Deep learning, chapter 1](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
+* [How to Learn Deep Learning (when you’re not a computer science PhD)](https://vimeo.com/214233053)
+
+* [ML concepts in plain language.](https://www.youtube.com/user/joshstarmer)
+
+* [Deep Learning with PyTorch](https://www.youtube.com/watch?v=v5cngxo4mIg&list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
+
+* [Deep Learning with PyTorch](https://www.youtube.com/watch?v=v5cngxo4mIg&list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
+
+* [Intoduction to PyTorch. Uses regression , classification and image recognition for teaching concepts such CNNs,FCNs , AutoGrad etc](https://www.youtube.com/playlist?list=PLbMqOoYQ3Mxw1Sl5iAAV4SJmvnAGAhFvK)
+
+* [Intro to Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk)
+
+* [PyTorch tutorial for beginners](https://github.com/Lplenka/PyTorch-Tutorial)
+
+* [Contains code based tutorial for Pytorch](https://github.com/AyushExel/DeepTorch)
+
+* [Free Python coding games from beginners to advanced](https://checkio.org/)
+
+* [An introduction to PyTorch Tensors](https://github.com/TheDataSpartan/PyTorch/blob/master/PyTorch%20Tensor%20Notebook.ipynb)
+
+* [Deep Learning Tutorial - LISA lab, University of Montreal](http://deeplearning.net/tutorial/deeplearning.pdf )
+
+## Blogs
+
+* [Neural Network for begineers blog](https://blog.statsbot.co/neural-networks-for-beginners-d99f2235efca)
+
+
+## Misc
+
+* [Chrome extension for speeding up youtube video playack speed](https://chrome.google.com/webstore/detail/youtube-playback-speed-co/hdannnflhlmdablckfkjpleikpphncik)
+
+
