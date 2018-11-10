@@ -19,6 +19,7 @@ Contributions are always welcome!
     - [Courses](#courses)
     - [Articles](#articles)
     - [Tutorials](#tutorials)
+    - [Jupyter Notebooks](#jupyter-notebooks)
     - [Books](#books)
     - [Training & tutorials](#Training&#32;&&#32;tutorials)
     - [Misc](#Misc)
