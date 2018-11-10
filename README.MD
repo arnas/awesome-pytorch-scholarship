@@ -95,6 +95,8 @@ Walkthroughs and tutorials that help you learn ML and PyTorch.
 
 * [Deep Learning Tutorial - LISA lab, University of Montreal](http://deeplearning.net/tutorial/deeplearning.pdf )
 
+* [Numpy Tutorial - Stanford CS231n](https://cs231n.github.io/python-numpy-tutorial)
+
 ## Books
 
 Books - free and commercial
