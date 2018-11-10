@@ -10,6 +10,7 @@ Contributions are always welcome!
 
 ## AMA's
 - [Pytorch AMA 11.09.2018](https://docs.google.com/document/d/19ELb_KZI4eIdT6Xj0O9A6xkQfd6kRFwtQ-9xtAGclqA/edit#heading=h.2gazcsgmxkub)
+- (Alternate categorized version) [Pytorch AMA 11.09.2018](https://docs.google.com/document/d/1tvq1fq1BoeJ4reKf_WfFhcXhY3sfOazwKoZC6vq3gjk/edit)
 
 # Resources
 
