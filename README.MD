@@ -6,9 +6,14 @@ A collection of awesome PyTorch and Python learning resources.
 
 Contributions are always welcome!
 
-# Categories
+## Course Information
 
-- [Categories](#categories)
+## AMA's
+- [Pytorch AMA 11.09.2018](https://docs.google.com/document/d/19ELb_KZI4eIdT6Xj0O9A6xkQfd6kRFwtQ-9xtAGclqA/edit#heading=h.2gazcsgmxkub)
+
+# Resources
+
+- [Resources](#resources)
     - [Documentation](#documentation)
     - [Courses](#courses)
     - [Articles](#articles)
