@@ -128,6 +128,8 @@ Assortment of conference and training videos.
 
 * [Intro to Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk)
 
+* [Deep Neural Networks with PyTorch](https://www.youtube.com/watch?v=_H3aw6wkCv0)
+
 ## Blogs
 
 * [Neural Network for begineers blog](https://blog.statsbot.co/neural-networks-for-beginners-d99f2235efca)
