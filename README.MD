@@ -72,6 +72,7 @@ Courses that can you take alongside PyTorch scholarship course both Python and M
 Content published on the Web.
 
 * [PyTorch 101 for Dummies](https://medium.com/@dassangeet768/pytorch-101-for-dummies-like-me-2adfe3af2e40)
+* [Using PyTorch with GPU in Google Colab](https://jovianlin.io/pytorch-with-gpu-in-google-colab/)
 
 
 ## Tutorials
@@ -96,6 +97,10 @@ Walkthroughs and tutorials that help you learn ML and PyTorch.
 * [Deep Learning Tutorial - LISA lab, University of Montreal](http://deeplearning.net/tutorial/deeplearning.pdf )
 
 * [Numpy Tutorial - Stanford CS231n](https://cs231n.github.io/python-numpy-tutorial)
+
+## Jupyter Notebooks
+
+* [From basics to building CNN in PyTorch ](https://github.com/Lplenka/PyTorch-Tutorial)
 
 ## Books
 
