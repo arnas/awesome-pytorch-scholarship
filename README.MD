@@ -60,6 +60,11 @@ Courses that can you take alongside PyTorch scholarship course both Python and M
 
 * [Free, interactive, intuitive Python tutorials](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 
+* [EDX - Deep Learning with Python and PyTorch] (https://courses.edx.org/courses/course-v1:IBM+DL0110EN+3T2018/course/)
+
+* [EDX - Introduction to Python: Fundamentals] (https://courses.edx.org/courses/course-v1:Microsoft+DEV274x+3T2018/course/)
+
+* [EDX - Introduction to Python: Absolute Beginner] (https://courses.edx.org/courses/course-v1:Microsoft+DEV236x+3T2018/course/)
 
 ## Articles
 
