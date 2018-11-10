@@ -21,8 +21,8 @@ Contributions are always welcome!
     - [Tutorials](#tutorials)
     - [Jupyter Notebooks](#jupyter-notebooks)
     - [Books](#books)
-    - [Training & tutorials](#Training&#32;&&#32;tutorials)
-    - [Misc](#Misc)
+    - [Training and tutorials](#training-and-tutorials)
+    - [Misc](#misc)
 
 
 ## Documentation
@@ -34,13 +34,13 @@ Contributions are always welcome!
 Courses that can you take alongside PyTorch scholarship course both Python and Machine Learning
 
 
-* [Coursera' Machine Learning Course by stanford](https://www.coursera.org/learn/machine-learning)
+* [Coursera' Machine Learning Course by Stanford](https://www.coursera.org/learn/machine-learning)
 
 * [Coursera' Deep learning Specialization taught by Andrew Ng](https://www.coursera.org/learn/machine-learning)
 
-* [Linear Algebra refresher course from udacity](https://eu.udacity.com/course/linear-algebra-refresher-course--ud953)
+* [Linear Algebra refresher course from Udacity](https://eu.udacity.com/course/linear-algebra-refresher-course--ud953)
 
-* [Introductory courses(few hours each) about Python, ML, Pandas Data Visualisation, SQL, R, Deep Learning, Embeddings and ML Explainability](https://www.kaggle.com/learn/overview)
+* [Introductory courses(few hours each) about Python, ML, Pandas Data Visualisation, SQL, R, Deep Learning, Embeddings, and ML Explainability](https://www.kaggle.com/learn/overview)
 
 * [Linear algebra lectures from Gilbert Strang (very great lectures](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
 
@@ -48,7 +48,7 @@ Courses that can you take alongside PyTorch scholarship course both Python and M
 
 * [A Practical Introduction to deep learning](https://www.datacamp.com/courses/deep-learning-in-python)
 
-* [Intro To machine learning by mit professors.](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-11-introduction-to-machine-learning/)
+* [Intro To machine learning by MIT professors.](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-11-introduction-to-machine-learning/)
 
 * [Practical deep learning course. For later on in the challenge, when everyone is comfortable with PyTorch](https://course-v3.fast.ai/)
 
@@ -112,17 +112,17 @@ Books - free and commercial
 
 ## Videos
 
-Assortment of conference and training videos.
+An assortment of conference and training videos.
 
-### Training & tutorials
+### Training and tutorials
 
-* [3blue1brown's Channel (Intuititive refreshers in neural networks and linear Algebra))](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists)
+* [3blue1brown's Channel (Intuitive refreshers in neural networks and linear Algebra))](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists)
 
 * [Siraj's Channel (Topics and courses in AI, machine learning, decentralized apps, etc.)](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists)
 
 * [But what is a Neural Network? | Deep learning, chapter 1](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
-* [How to Learn Deep Learning (when you’re not a computer science PhD)](https://vimeo.com/214233053)
+* [How to Learn Deep Learning (when you’re not a computer science Ph.D.)](https://vimeo.com/214233053)
 
 * [ML concepts in plain language.](https://www.youtube.com/user/joshstarmer)
 
@@ -130,7 +130,7 @@ Assortment of conference and training videos.
 
 * [Deep Learning with PyTorch](https://www.youtube.com/watch?v=v5cngxo4mIg&list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
 
-* [Intoduction to PyTorch. Uses regression , classification and image recognition for teaching concepts such CNNs,FCNs , AutoGrad etc](https://www.youtube.com/playlist?list=PLbMqOoYQ3Mxw1Sl5iAAV4SJmvnAGAhFvK)
+* [Introduction to PyTorch. Uses regression, classification and image recognition for teaching concepts such CNNs, FCNs, AutoGrad etc](https://www.youtube.com/playlist?list=PLbMqOoYQ3Mxw1Sl5iAAV4SJmvnAGAhFvK)
 
 * [Intro to Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk)
 
@@ -138,10 +138,10 @@ Assortment of conference and training videos.
 
 ## Blogs
 
-* [Neural Network for begineers blog](https://blog.statsbot.co/neural-networks-for-beginners-d99f2235efca)
+* [Neural Network for beginners blog](https://blog.statsbot.co/neural-networks-for-beginners-d99f2235efca)
 
 ## Misc
 
-* [Chrome extension for speeding up youtube video playack speed](https://chrome.google.com/webstore/detail/youtube-playback-speed-co/hdannnflhlmdablckfkjpleikpphncik)
+* [Chrome extension for speeding up youtube video playback speed](https://chrome.google.com/webstore/detail/youtube-playback-speed-co/hdannnflhlmdablckfkjpleikpphncik)
 
 
