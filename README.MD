@@ -67,6 +67,7 @@ Courses that can you take alongside PyTorch scholarship course both Python and M
 * [EDX - Introduction to Python: Fundamentals](https://courses.edx.org/courses/course-v1:Microsoft+DEV274x+3T2018/course/)
 
 * [EDX - Introduction to Python: Absolute Beginner](https://courses.edx.org/courses/course-v1:Microsoft+DEV236x+3T2018/course/)
+* [Udemy - Machine Learning MasterClass](https://www.udemy.com/machine-learning-masterclass/)
 
 ## Articles
 
