@@ -85,8 +85,6 @@ Walkthroughs and tutorials that help you learn ML and PyTorch.
 
 * [Pytorch Official List of Tutorials](https://pytorch.org/tutorials/)
 
-* [Pytorch Official List of Tutorials](https://pytorch.org/tutorials/)
-
 * [PyTorch tutorial for beginners](https://github.com/Lplenka/PyTorch-Tutorial)
 
 * [Contains code based tutorial for Pytorch](https://github.com/AyushExel/DeepTorch)
