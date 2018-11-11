@@ -97,6 +97,8 @@ Walkthroughs and tutorials that help you learn ML and PyTorch.
 
 * [Numpy Tutorial - Stanford CS231n](https://cs231n.github.io/python-numpy-tutorial)
 
+* [Kaggle tutorial for deep learning beginners](https://kaggle.com/kanncaa1/deep-learning-tutorial-for-beginners)
+
 ## Jupyter Notebooks
 
 * [From basics to building CNN in PyTorch ](https://github.com/Lplenka/PyTorch-Tutorial)
