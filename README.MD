@@ -77,7 +77,7 @@ Content published on the Web.
 
 * [PyTorch 101 for Dummies](https://medium.com/@dassangeet768/pytorch-101-for-dummies-like-me-2adfe3af2e40)
 * [Using PyTorch with GPU in Google Colab](https://jovianlin.io/pytorch-with-gpu-in-google-colab/)
-
+* [The best resources for Deep Learning from beginner to advance](https://www.kaggle.com/getting-started/37999)
 
 ## Tutorials
 
