@@ -12,6 +12,8 @@ Contributions are always welcome!
 - [Pytorch AMA 11.09.2018](https://docs.google.com/document/d/19ELb_KZI4eIdT6Xj0O9A6xkQfd6kRFwtQ-9xtAGclqA/edit#heading=h.2gazcsgmxkub)
 - (Alternate categorized version) [Pytorch AMA 11.09.2018](https://docs.google.com/document/d/1tvq1fq1BoeJ4reKf_WfFhcXhY3sfOazwKoZC6vq3gjk/edit)
 
+- [AMA Session Wednesday, November 14th @ 4PM PST](https://slack-files.com/files-pri-safe/TDBKE3X9D-FE45NN5BL/pytorch_facebook_scholarship_ama_181114.pdf?c=1542254974-3abc545b243d7de481d2fb193ebbaddfd99526cb)
+
 # Resources
 
 - [Resources](#resources)
