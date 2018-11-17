@@ -14,6 +14,8 @@ Contributions are always welcome!
 
 - [AMA Session Wednesday, November 14th @ 4PM PST](https://slack-files.com/files-pri-safe/TDBKE3X9D-FE45NN5BL/pytorch_facebook_scholarship_ama_181114.pdf?c=1542254974-3abc545b243d7de481d2fb193ebbaddfd99526cb)
 
+- [AMA_Session Transcript,Thurs , 11/15/18](https://slack-files.com/files-pri-safe/TDBKE3X9D-FE58W5GP7/ama-4_transcribe_15.11.18.pdf?c=1542336165-fbe529cf9961b022229bae9f5ee7b722b00a87d3)
+
 # Resources
 
 - [Resources](#resources)
