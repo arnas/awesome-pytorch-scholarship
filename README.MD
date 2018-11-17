@@ -142,6 +142,8 @@ An assortment of conference and training videos.
 ## Blogs
 
 * [Neural Network for beginners blog](https://blog.statsbot.co/neural-networks-for-beginners-d99f2235efca)
+* [Tutorial to take you from beginner to expert in Machine Learning](https://machinelearningmastery.com)
+* [Computer Vision for Python](https://www.pyimagesearch.com)
 
 ## Misc
 
